@@ -22,7 +22,7 @@ public class UserController {
     private UserService userService;
 
     /**
-     * 这个是服务器端图形界面登陆使用
+     * 这个是服务器端图形界面登陆使用，冲洗
      * @param request
      * @return
      * @throws Exception
